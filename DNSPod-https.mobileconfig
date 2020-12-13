@@ -1,4 +1,3 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
@@ -27,11 +26,11 @@
 			<key>PayloadDisplayName</key>
 			<string>DNSPod over HTTPS</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.dnsSettings.managed.C498EC0C-EF6C-44F0-BFB8-0000658B99AC</string>
+			<string>com.apple.dnsSettings.managed.C498EC0C-EF6C-44F0-BFB7-0000658B99AC</string>
 			<key>PayloadType</key>
 			<string>com.apple.dnsSettings.managed</string>
 			<key>PayloadUUID</key>
-			<string>065AB183-5E34-4794-9BEB-B5327CF61F28</string>
+			<string>065AB183-5E34-4794-9BEB-B5327CF61F27</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>ProhibitDisablement</key>
@@ -49,7 +48,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>030E6D6F-69A2-4515-9D77-99342CB9AE77</string>
+	<string>030E6D6F-69A2-4515-9D77-99342CB9AE76</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
