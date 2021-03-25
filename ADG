@@ -27,4 +27,5 @@
 
 #百度
 baidu.com###con-ar
-m.baidu.com###header > div:last-child > div > div:nth-child(2) > div:nth-child(4)
+baidu.com###header > div:last-child > div
+baidu.com###index-card > div.blank-frame:nth-child(6)
