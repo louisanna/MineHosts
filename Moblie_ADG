@@ -39,5 +39,5 @@
 ||cpro.baidustatic.com^
 ||dup.baidustatic.com^
 baidu.com###con-ar
-m.baidu.com###header > div:last-child > div
-m.baidu.com###index-card > div.blank-frame:nth-child(6)
+m.baidu.com###header > div:last-child
+m.baidu.com###index-card > div.blank-frame
